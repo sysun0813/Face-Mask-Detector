@@ -2,6 +2,16 @@ from urllib.request import Request, urlopen
 import json
 import os
 
+
+def image_download(url,filepath):
+    request=Request(url)
+    response=urlopen(request)
+    image_data=response.read()
+    file=open(filepath,'wb')
+    file.write(image_data)
+    file.close()
+    print(url+'로 부터'+filepath+'에 다운로드 완료')
+
 save_folder = 'data/without_mask/'
 api_url = 'https://api.github.com/repos/prajnasb/observations/contents/experiements/data/without_mask?ref=master'
 

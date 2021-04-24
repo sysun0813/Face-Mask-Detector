@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a54b24-3862-48c7-84b8-d7a6c839ff5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/face_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image_downloader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/face_extract.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_extract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_detector.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
