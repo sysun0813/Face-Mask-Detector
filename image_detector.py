@@ -28,4 +28,5 @@ for i in range(len(contents)):
     file = open(save_folder + content['name'], 'wb')
     file.write(data)
     print('다운로드 완료(' + str(i + 1) + '/' + str(len(contents)) + '): ' + content['name'])
+    break
     # 다운로드 완료(30/500): 30.jpeg

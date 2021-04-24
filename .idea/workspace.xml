@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a54b24-3862-48c7-84b8-d7a6c839ff5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/face_extract.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_detector.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qePbNz6VUSH67ct0YpEfThh4cZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -38,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ImageEx">
+  <component name="RunManager" selected="Python.face_extract">
     <configuration name="ImageEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Face Mask Detector" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QPushButton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="face_extract" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Face Mask Detector" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QPushButton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_extract.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="image_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Face Mask Detector" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_detector.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.face_extract" />
+        <item itemvalue="Python.image_detector" />
         <item itemvalue="Python.ImageEx" />
         <item itemvalue="Python.QPixmap" />
         <item itemvalue="Python.QLabel" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.QPushButton" />
       </list>
     </recent_temporary>
   </component>
